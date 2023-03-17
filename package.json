@@ -1,0 +1,28 @@
+{
+  "name": "restaurant-page",
+  "version": "1.0.0",
+  "description": "Repository for Odin Project Restaurant Page student project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
+    "watch": "webpack --watch",
+    "start": "webpack server --open --mode=development"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cole-DwellStudio/restaurant-page.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cole-DwellStudio/restaurant-page/issues"
+  },
+  "homepage": "https://github.com/Cole-DwellStudio/restaurant-page#readme",
+  "devDependencies": {
+    "webpack": "^5.76.2",
+    "webpack-cli": "^5.0.1",
+    "webpack-dev-server": "^4.12.0"
+  }
+}
