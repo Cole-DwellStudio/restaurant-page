@@ -1,6 +1,6 @@
 # restaurant-page
 
-## Repository for Odin Project Restaurant Page - Student Project
+## Odin Project - Restaurant Page - Student Project
 
 ### Images from Unsplash. Thank you to the following authors:
 
